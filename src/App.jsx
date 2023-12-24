@@ -1,12 +1,12 @@
 import "./App.css";
 import { GlobalProvider } from "./contexts/GlobalContext";
-import Router from "./Router";
+import AllRouters from "./Router";
 
 function App() {
   return (
     <>
       <GlobalProvider>
-        <Router />
+        <AllRouters />
       </GlobalProvider>
     </>
   );
