@@ -1,9 +1,9 @@
 {
   "name": "react-live",
   "private": true,
-  "version": "0.0.1", 
+  "version": "0.0.1",
   "type": "module",
-  "homepage": "https://shohag05.github.io/react-live",
+  "homepage": "https://shohag05.github.io/react-live/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
